@@ -1,2 +1,17 @@
-# Candidate-Review-Dashboard
-A modern frontend hiring dashboard built to help recruiters efficiently evaluate, compare, and prioritize candidates based on multiple performance metrics.  This project simulates a real-world internal recruitment tool used to review large volumes of applicants with structured scoring and smart prioritization.
+# Candidate Review Dashboard (Production-Level)
+
+## Setup
+```bash
+npm install
+npm run dev
+```
+
+## Features
+- Candidate table with search, filters, sorting, pagination
+- Drawer with detail + evaluation panels
+- Assignment & Video evaluation (sliders 1–5 -> mapped to 0–100)
+- Live priority engine (P0–P3)
+- Dashboard summary cards
+- Comparison mode (up to 3 candidates)
+- Dark mode
+- Animations (Framer Motion)
