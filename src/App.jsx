@@ -22,6 +22,12 @@ export default function App() {
           <h1 className="text-lg font-semibold text-gray-800 dark:text-white">
             Candidate Review Dashboard
           </h1>
+          <h1 className="text-lg font-semibold text-gray-800 dark:text-white">
+            Candidate Review Dashboard
+          </h1>
+          <h1 className="text-lg font-semibold text-gray-800 dark:text-white">
+            Candidate Review Dashboard
+          </h1>
           <p className="text-xs text-gray-500 dark:text-gray-400">
             Internal Hiring Tool
           </p>
